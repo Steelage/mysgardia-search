@@ -10,6 +10,10 @@ To install CSS code, simply click [**This link**](https://raw.githubusercontent.
 
 To install JS code, open the Dashboard of Tampermonkey and click "[+]" button to go the "New Userscript" section. Then click [**This link**](https://raw.githubusercontent.com/Steelage/mysgardia-search/master/mysgardia-search.user.js) and copy the entire code from the link, then replace the every contents of the editor with it.
 
+To make sure your JS code to be auto-updated, you need to open the installed js code in Dashboard and click "Settings" besite the "Editor". Turn on <code>Check updates</code> if it's turned off, then insert the url <code>https://raw.githubusercontent.com/Steelage/mysgardia-search/master/mysgardia-search.user.js</code> in the input, then click "Save" button.
+
+Note that CSS code doesn't need such progress as it is already set to auto-update itself!
+
 # The things I want to note down
 There is nothing so much to be noted about the code itself, but there are a couple of hidden facts about it:
 1. **the NAME input is [regExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)-based**, you may filter those with default names by inserting <code>^(?!Amoura)</code> and such.
