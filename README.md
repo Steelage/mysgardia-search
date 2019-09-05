@@ -1,5 +1,5 @@
 # mysgardia-search
-<img src="https://i.imgur.com/p4gauzJ.png">
+<img src="https://i.imgur.com/1cUyVHv.png">
 The Sanctuary takes too long list of creatures, and the Manage Creatures is screwed up yet; here this exists for easily browsing Mysgardia Creatures in the Sanctuary(profile page)!
 
 # How to install?
@@ -21,3 +21,4 @@ There is nothing so much to be noted about the code itself, but there are a coup
 2. If a special form is given to CLICKS input, it will only show those within the range. **Inserting like <code>123-456</code> to get the range filter.**
 3. **It will work well in the latest version of Firefox/Chrome browser.**
 4. If you have more than 3000 creatures, the code will not auto-update the filter whenever typing one of inputs due to the lagging issue. You may press enter to manually update the filter; although changing the selected option of a selection still works regardless.
+5. If you're visiting other's profile page, those manage buttons beside <code>Level Up</code> and <code>Export HTML Code</code> will not be shown, simply because you only can manage your own!
