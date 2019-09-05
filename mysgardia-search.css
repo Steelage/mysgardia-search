@@ -1,0 +1,34 @@
+/* ==UserStyle==
+@name         mysgardia-search CSS
+@version      1.0.0
+@description  CSS for mysgardia-search
+@namespace    https://github.com/Steelage/mysgardia-search
+@author       Niello#7627(186903054925168640) / mysgardia.com/profile/view/Dux / github.com/Steelage
+@homepageURL  https://github.com/Steelage/mysgardia-search
+@supportURL   https://github.com/Steelage/mysgardia-search/issues
+@updateURL    TBA 
+@license      MIT License
+==/UserStyle== */
+@-moz-document url-prefix("http://mysgardia.com/profile/view/") {
+#fadeiiin {display:none;align-items:center;justify-content:center;position:fixed;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:999;left:0;top:0}
+.hereur {min-width: 75%;max-height:90%;padding:10px;background:#FFF;border-radius:10px;position:relative;box-sizing:border-box;overflow:auto}
+.hereur textarea {width:100%;min-height:400px;margin:2px;box-sizing:border-box}
+.hereur button {width:100%;margin:2px;box-sizing:border-box}
+
+.pagenumcont, .managecont {display:flex;align-items:center;justify-content:center;width:100%;flex-wrap: wrap;text-align:center;margin:0 0 3px}
+.pagenumcontReserved {height:22px}
+.pagenumcont li, .managecont li {padding:3px 7px;background:olive;border-radius:5px;color:#fff;cursor:pointer;width:22px;list-style-type:none}
+.pagenumcont li:nth-child(even), .managecont li:nth-child(even) {background:green}
+.pagenumcont li.special, .managecont li.special {background:crimson}
+.pagenumcont li.special span:last-child{display:none}
+.pagenumcont li.special:hover span:first-child{display:none}
+.pagenumcont li.special:hover span:last-child{display:inline}
+.pagenumcont li[actived] {background:MediumVioletRed;font-weight:bold}
+.pagenumcont li[actived]:nth-child(even) {background:crimson}
+.managecont li {width:auto}
+.fompom {margin:5px 0;display:flex;align-items:center;justify-content:center;flex-wrap:wrap}
+.fompom input {margin:0}
+.fompom input[type="number"] {width:60px}
+.fompom input[placeholder="Clicks"] {width:100px}
+article > h2 + br {display:none}
+}
