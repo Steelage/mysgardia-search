@@ -16,6 +16,6 @@ Note that CSS code doesn't need such progress as it is already set to auto-updat
 
 # The things I want to note down
 There is nothing so much to be noted about the code itself, but there are a couple of hidden facts about it:
-1. **the NAME input is [regExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)-based**, you may filter those with default names by inserting <code>^(?!Amoura)</code> and such.
+1. **The NAME input is [regExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)-based**, you may filter those with default names by inserting <code>^(?!Amoura)</code> (<code>Amoura</code> can be any name) and such.
 2. If a special form is given to CLICKS input, it will only show those within the range. **Inserting like <code>123-456</code> to get the range filter.**
 3. **It will work well in the latest version of Firefox/Chrome browser.**
