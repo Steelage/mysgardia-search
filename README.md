@@ -8,7 +8,7 @@ First, You need both Stylus and Tampermonkey addons/extensions to be installed s
 
 To install CSS code, simply click [**This link**](https://raw.githubusercontent.com/Steelage/mysgardia-search/master/mysgardia-search.user.css) and then click "Install style" button. Then you got half of the whole code!
 
-To install JS code, Open the Dashboard of Tampermonkey and click "[+]" button to go the "New User Script" section. Then click [**This link**](https://raw.githubusercontent.com/Steelage/mysgardia-search/master/mysgardia-search.user.js) and copy the entire code from the link, then replace the every contents in the editor with it.
+To install JS code, Open the Dashboard of Tampermonkey and click "[+]" button to go the "New User Script" section. Then click [**This link**](https://raw.githubusercontent.com/Steelage/mysgardia-search/master/mysgardia-search.user.js) and copy the entire code from the link, then replace the every contents of the editor with it.
 
 # The things I want to note down
 There is nothing so much to be noted about the code itself, but there are a couple of hidden facts about it:
