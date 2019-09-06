@@ -1,6 +1,6 @@
 # mysgardia-search
 <img src="https://i.imgur.com/1cUyVHv.png">
-The Sanctuary takes too long list of creatures, and the Manage Creatures is screwed up yet; here this exists for easily browsing Mysgardia Creatures in the Sanctuary(profile page)!
+The Sanctuary takes too long list of creatures, and the Manage Creatures page is screwed up yet; here this exists for easily browsing Mysgardia Creatures in the Sanctuary(profile page)!
 
 Note that **this tool is NOT officially supported by [*Grynn's Fairy Tales*](http://grynnsfairytales.com); use it at your own risk!**
 
