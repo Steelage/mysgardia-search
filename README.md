@@ -2,6 +2,8 @@
 <img src="https://i.imgur.com/1cUyVHv.png">
 The Sanctuary takes too long list of creatures, and the Manage Creatures is screwed up yet; here this exists for easily browsing Mysgardia Creatures in the Sanctuary(profile page)!
 
+Note that **this tool is NOT officially supported by [*Grynn's Fairy Tales*](http://grynnsfairytales.com); use it at your own risk!**
+
 # How to install?
 First, You need both Stylus and Tampermonkey addons/extensions to be installed so you can apply codes in your browser:
 * Install Tampermonkey: [Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Firefox](https://addons.mozilla.org/ko/firefox/addon/tampermonkey/)
