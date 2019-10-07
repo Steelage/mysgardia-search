@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Search Mys Creatures
 // @namespace    https://github.com/Steelage/mysgardia-search
-// @version      1.0
+// @version      1.02
 // @description  The Sanctuary takes too long list of creatures, and the Manage Creatures is screwed up yet; here this exists for easily browsing Mysgardia Creatures in the Sanctuary(profile page)!
 // @author       Niello#7627(186903054925168640) / mysgardia.com/profile/view/Dux / github.com/Steelage
 // @match        http://mysgardia.com/profile/view/*
